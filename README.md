@@ -1,14 +1,9 @@
-## Getting Started
+An LL(1) Parser for Regex by:
+Lenard Balwin To
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+## Instructions
 
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-## Dependency Management
-
-The `JAVA DEPENDENCIES` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-pack/blob/master/release-notes/v0.9.0.md#work-with-jar-files-directly).
+Step 1: Open src/input.txt, src/output.txt, src/App.java from an IDE or Text Editor
+Step 2: input a regex notation to the input.txt
+Step 3: run the App.java file in an IDE
+Step 4: a verdict should be printed to the src/output.txt file
