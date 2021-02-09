@@ -1,0 +1,6 @@
+A -> B | ( F ) C
+B -> x C
+C -> y G | D | A | ε
+D -> U F
+F -> A | E
+G -> A | D | ε
